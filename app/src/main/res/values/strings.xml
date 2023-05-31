@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MommyMate2</string>
+
+    <string name="home">Home</string>
+    <string name="record">Record</string>
+    <string name="settings">Settings</string>
+
+    <string name="rekam">Rekam Tangisan</string>
+    <string name="lagiRekam">Sedang Merekam..</string>
+
+    <string name="rekamMulai">Mulai rekam</string>
+    <string name="rekamStop">Berhenti rekam</string>
+
+</resources>
